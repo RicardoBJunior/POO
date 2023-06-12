@@ -1,0 +1,4 @@
+model\Pessoa.class
+conexao\ConexaoBanco.class
+model\PessoaDAO.class
+com\mycompatrny\bancosql\BancoSQL.class
