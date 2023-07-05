@@ -1,0 +1,12 @@
+Passo a passo trabalho Lanchonete:
+Login-> func
+Senha -> 12345
+Segue os passos:
+1- Clicar no botão Cadastrar
+2- 3 opções para cadastro
+3- Na tela Principal Clicar em Fazer Pedido 
+4- Digite o nome 
+5- escolha o prato depois clique em encerrar
+6- Será exibido no console os itens consumidos/valores
+
+está com alguns bugs mas parece está funcionando
